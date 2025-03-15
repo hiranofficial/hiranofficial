@@ -77,7 +77,7 @@ I’m always on a mission to **push the boundaries of AI & software engineering*
 
 ## 🤝 **Let’s Connect & Build Cool Stuff Together!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HiranHarilal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hiranharilal)  
-[![GitHub](https://img.shields.io/badge/GitHub-HiranHarilal-black?style=flat&logo=github)](https://github.com/hiranharilal)  
+[![GitHub](https://img.shields.io/badge/GitHub-HiranHarilal-black?style=flat&logo=github)](https://github.com/hiranofficial)  
 [![Website](https://img.shields.io/badge/Website-LucyHR-red?style=flat&logo=googlechrome)](https://lucyhr.ai)  
 
 ---
